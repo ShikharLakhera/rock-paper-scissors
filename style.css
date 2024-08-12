@@ -1,0 +1,31 @@
+
+.options{
+    height: 200px;
+    width: 200px;
+    border:2px solid black;
+    background-color: red;
+    margin: 30px;
+    line-height: 200px;
+    border-radius: 100px;
+    text-align: center;
+}
+
+#container{
+    display:flex;
+    justify-content: center;
+}
+
+body{
+    color:white;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    height: 40px;
+    font-size: 30px;
+}
